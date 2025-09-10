@@ -1,11 +1,11 @@
 {
   "games": [
-    {"slug": "astro-bot", "categoryID": "2109666737"},
     {"slug": "death-stranding-2", "categoryID": "1630297266"},
     {"slug": "prince-of-persia-the-lost-crown", "categoryID": "95777581"},
     {"slug": "star-wars-outlaws", "categoryID": "780037970"}
   ],
   "stack": [
+      {"slug": "astro-bot", "categoryID": "2109666737"},
       {"slug": "silent-hill-2-1", "categoryID": "2058570718"},
       {"slug": "the-legend-of-zelda-echoes-of-wisdom", "categoryID": "1290989747"}
   ],
