@@ -1,6 +1,5 @@
 {
   "games": [
-      {"slug": "astro-bot", "categoryID": "2109666737"},
       {"slug": "black-myth-wukong", "categoryID": "519291"}
   ],
   "daysOfWeek": [6],
