@@ -1,0 +1,27 @@
+{
+  "games": [
+    {"slug": "dragons-dogma-ii", "categoryID": "435870350"},
+    {"slug": "final-fantasy-x", "categoryID": "10322"},
+    {"slug": "genshin-impact", "categoryID": "513181"},
+    {"slug": "lies-of-p", "categoryID": "653624336"},
+    {"slug": "like-a-dragon-gaiden-pirates-in-hawaii", "categoryID": "1993079020"},
+    {"slug": "metaphor-refantazio", "categoryID": "494806"}
+  ],
+  "daysOfWeek": [0, 1, 2, 3],
+  "hoursOfDay": [22, 23],
+  "stack": [
+    {"slug": "baldurs-gate-3", "categoryID": "512923"},
+    {"slug": "cyberpunk-2077", "categoryID": "65876"},
+    {"slug": "elden-ring", "categoryID": "512953"},
+    {"slug": "sea-of-stars", "categoryID": "516789"},
+    {"slug": "starfield", "categoryID": "506438"},
+    {"slug": "kingdom-hearts-birth-by-sleep", "categoryID": "19536"},
+    {"slug": "monster-hunter-rise", "categoryID": "1275666892"},
+    {"slug": "pokemon-legends-arceus", "categoryID": "561013832"},
+    {"slug": "scarlet-nexus", "categoryID": "517404"},
+    {"slug": "shin-megami-tensei-v", "categoryID": "499825"},
+    {"slug": "tales-of-arise", "categoryID": "512957"},
+    {"slug": "triangle-strategy", "categoryID": "96418879"},
+    {"slug": "xenoblade-chronicles-3", "categoryID": "1584758405"}
+  ]
+}

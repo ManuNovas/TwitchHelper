@@ -1,0 +1,17 @@
+{
+  "games": [
+      {"slug": "astro-bot", "categoryID": "2109666737"},
+      {"slug": "black-myth-wukong", "categoryID": "519291"}
+  ],
+  "daysOfWeek": [6],
+  "hoursOfDay": [22, 23],
+  "stack": [
+    {"slug": "balatro", "categoryID": "745589378"},
+    {"slug": "baldurs-gate-3", "categoryID": "512923"},
+    {"slug": "elden-ring", "categoryID": "512953"},
+    {"slug": "marvels-spider-man-2", "categoryID": "1967084783"},
+    {"slug": "resident-evil-4", "categoryID": "322503446"},
+    {"slug": "super-mario-bros-wonder", "categoryID": "463447553"},
+    {"slug": "the-legend-of-zelda-tears-of-the-kingdom", "categoryID": "512998"}
+  ]
+}
